@@ -1,7 +1,6 @@
 import json
 import requests
 
-
 url = 'https://api.pushbullet.com/v2/pushes'
 headers = {
     'Access-Token': 'YOUR-API-TOKEN',
